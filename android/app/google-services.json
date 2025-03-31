@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168920436981",
+    "project_id": "fysd-61d62",
+    "storage_bucket": "fysd-61d62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168920436981:android:2f102814df8b94c572b5bc",
+        "android_client_info": {
+          "package_name": "com.example.fys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAM2AnyZITKsxKQDGPIPRh4bjy69DCVNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
